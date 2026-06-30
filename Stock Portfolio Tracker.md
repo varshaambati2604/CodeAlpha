@@ -90,6 +90,10 @@ Task 2 – Stock Portfolio Tracker
 CodeAlpha Python Programming Internship
 
 ---
+## 📸 Program Output
+
+![Stock Portfolio Output](outputs/stock_portfolio_output.jpg)
+
 
 ## 👨‍💻 Author
 
