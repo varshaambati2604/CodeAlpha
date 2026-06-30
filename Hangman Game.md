@@ -92,6 +92,9 @@ Task 1 – Hangman Game
 CodeAlpha Python Programming Internship
 
 ---
+## 📸 Program Output
+
+![Hangman Output](outputs/hangman_output.jpg)
 
 ## 👨‍💻 Author
 
