@@ -92,7 +92,7 @@ CodeAlpha Python Programming Internship
 ---
 ## 📸 Program Output
 
-![Stock Portfolio Output](outputs/stock_portfolio_output.jpg)
+![Stock Portfolio Output](outputs/stock_portfolio_output.jpg.jpg)
 
 
 ## 👨‍💻 Author
