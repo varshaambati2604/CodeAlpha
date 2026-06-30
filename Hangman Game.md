@@ -94,7 +94,7 @@ CodeAlpha Python Programming Internship
 ---
 ## 📸 Program Output
 
-![Hangman Output](outputs/hangman_output.jpg)
+![Hangman Output](outputs/hangman_output.jpg.jpg)
 
 ## 👨‍💻 Author
 
