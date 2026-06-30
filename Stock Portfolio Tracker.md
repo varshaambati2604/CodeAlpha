@@ -93,6 +93,6 @@ CodeAlpha Python Programming Internship
 
 ## 👨‍💻 Author
 
-Mourya Tandasa
+Varshini Ambati
 
-B.Tech AI & ML Student
+B.Tech ECE student
